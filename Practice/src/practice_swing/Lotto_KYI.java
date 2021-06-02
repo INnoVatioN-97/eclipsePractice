@@ -1,4 +1,4 @@
-package practice_SwingGUI;
+package practice_swing;
 
 import java.awt.Color;
 import java.awt.FlowLayout;
